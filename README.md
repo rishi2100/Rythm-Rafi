@@ -1,1 +1,1 @@
-Developed this project by using HTML, CSS & Javascript
+Developed this project by using HTML, CSS & Javascript :)
